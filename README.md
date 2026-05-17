@@ -22,25 +22,25 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AmrEldowaik:
-    def __init__(self):
-        self.name        = "Amr Ahmed Eldowaik"
-        self.university  = "Arab Academy for Science, Technology & Maritime Transport (AASTMT)"
-        self.degree      = "Bachelor's in Software Engineering"
-        self.graduation  = "2026"
-        self.location    = "Giza, Egypt"
-        self.roles       = ["Software Engineer", "Business Analyst", "QA Automation Engineer"]
-        self.seeking     = ["Internships", "Full-time Roles", "Open Source Collaboration"]
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together 🚀")
+🎓 &nbsp;Final-year **Software Engineering** student at **AASTMT**, graduating 2026
 
-me = AmrEldowaik()
-me.say_hi()
-```
+💼 &nbsp;Interned at **Vodafone**, **Khalda Petroleum (Apache)** & **CIB Egypt**
 
-> 🎯 Final-year Software Engineering student with hands-on internship experience at **Vodafone**, **Khalda Petroleum (Apache)**, and **CIB Egypt**. I bridge the gap between technical execution and business understanding — from writing automated test suites to drafting SRS documents and deploying cloud systems.
+🧪 &nbsp;Passionate about **QA Automation** — Selenium, TestNG, POM
+
+📋 &nbsp;Experienced in **Business Analysis** — SRS, UML, Requirements Elicitation
+
+🌐 &nbsp;Full-stack builder — **Django · PHP · Flutter · JavaScript**
+
+☁️ &nbsp;Deployed systems on **Microsoft Azure** & worked with **Oracle ERP**
+
+🤝 &nbsp;Bridging the gap between **technical execution** and **business understanding**
+
+🚀 &nbsp;Seeking opportunities in **BA · QA Automation · Software Engineering**
+
+<br clear="right"/>
 
 ---
 
@@ -138,14 +138,14 @@ me.say_hi()
 ## 📊 Business Analysis Expertise
 
 ```
-📌 Requirements Elicitation       ████████████████████  Expert
-📌 SRS Documentation              ████████████████████  Expert
-📌 UML Diagrams (UC/Seq/Class)    ███████████████░░░░░  Advanced
-📌 BPMN Process Modeling          ███████████████░░░░░  Advanced
-📌 User Stories & Acceptance Criteria ██████████████░░░  Advanced
-📌 Gap Analysis & Feasibility     █████████████░░░░░░░  Proficient
-📌 Stakeholder Management         █████████████░░░░░░░  Proficient
-📌 Agile (Scrum) & Waterfall      ████████████████░░░░  Advanced
+📌 Requirements Elicitation           ████████████████████  Expert
+📌 SRS Documentation                  ████████████████████  Expert
+📌 UML Diagrams (UC/Seq/Class)        ███████████████░░░░░  Advanced
+📌 BPMN Process Modeling              ███████████████░░░░░  Advanced
+📌 User Stories & Acceptance Criteria ██████████████░░░░░░  Advanced
+📌 Gap Analysis & Feasibility         █████████████░░░░░░░  Proficient
+📌 Stakeholder Management             █████████████░░░░░░░  Proficient
+📌 Agile (Scrum) & Waterfall          ████████████████░░░░  Advanced
 ```
 
 ---
@@ -218,7 +218,7 @@ me.say_hi()
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="1">
+<td width="50%">
 
 ### 🐳 Docker Monitoring System
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
